@@ -64,6 +64,15 @@ Esta é uma página que representa uma landing page para um aplicativo de lancho
 
 <hr>
 
+### App de Tarefas
+Esta é uma página que representa uma landing page para um aplicativo de tarefas.
+<br><br>
+<img src="https://github.com/ViniciusV4/projetosFigma/blob/main/projetoTarefa.png" width="600px" />
+
+**Link do projeto:** <i>[clique aqui](https://www.figma.com/file/QqbGhig0x1YhAM25EJaul6/App-de-tarefas?type=design&t=930UuFNO7igw8BPS-6) 
+
+<hr>
+
 ### Fresh Salad 
 Aqui temos uma landing page que representa uma loja de salada.
 <br><br>
